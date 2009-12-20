@@ -1,0 +1,9 @@
+[Totem Plugin]
+Loader=python
+Module=dbus-service-az
+IAge=1
+Name=D-Bus Service +
+Description=Improvement on Lucky's D-Bus Plugin for sending notifications of currently-playing movies to the D-Bus subsystem.
+Authors=Azala <azalathemad@yahoo.com>
+Copyright=Copyright © 2009 Azala
+Website=http://projects.gnome.org/totem/
